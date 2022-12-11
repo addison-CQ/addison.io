@@ -18,7 +18,7 @@ sort: 8
 
 <img decoding="async" src="https://addison-cq.github.io/webPages/images/IMG_20221208_154101_edit_494093426512107.jpg" width="70%">
 
-### 4、Max3010X Start Failed
+### 4、MAX3010X Start Failed
 开发板上电后，屏幕显示图中信息，请检查MAX30102模块是否正常连接至开发板右侧8P排母
 
 <img decoding="async" src="https://addison-cq.github.io/webPages/images/IMG_20221208_154012_edit_494062645760549.jpg" width="70%">
