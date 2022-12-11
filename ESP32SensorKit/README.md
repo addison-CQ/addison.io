@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Test Documentation
+# ESP32 Sensor Kit
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
