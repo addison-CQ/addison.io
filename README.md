@@ -1,4 +1,4 @@
-<img decoding="async" src="https://addison-cq.github.io/webPages/images/logo.png" width="50%">
+<img decoding="async" src="https://addison-cq.github.io/webPages/images/logo2.png" width="50%">
 
 # 重庆艾迪逊电子
 
