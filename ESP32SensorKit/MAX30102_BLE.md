@@ -1,5 +1,5 @@
 ---
-sort: 1
+sort: 3
 ---
 
 # MAX30102_BLE
