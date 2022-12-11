@@ -1,4 +1,6 @@
-# ESP32 Sensor Kit是一款具有超高性价比的传感器应用开发套件
+# ESP32 Sensor Kit
+
+## ESP32 Sensor Kit是一款具有超高性价比的传感器应用开发套件
 
 - 主控选用乐鑫ESP32-WROOM-32E模组，该模组集成了Wi-Fi、传统蓝牙和低功耗蓝牙功能，适用于各种Wi-Fi与蓝牙应用场景。ESP32-WROOM-32E是通用型Wi-Fi模组，功能强大，内置ESP32-D0WD-V3芯片，Xtensa®双核32位LX6微处理器，448KB ROM，520KB SRAM，16KB RTC SRAM，支持高达240MHz的时钟频率。
 
