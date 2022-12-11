@@ -4,8 +4,6 @@ sort: 2
 
 # Copyright
 
-```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
-```
+## 出品：401耗材室
 
-{% include list.liquid all=true %}
+## 购买链接：[唯一授权](https://shop108071095.taobao.com/)
