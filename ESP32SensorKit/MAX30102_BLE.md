@@ -1,9 +1,8 @@
 ---
-layout: post
-title: MAX30102_BLE
-date: 2022-11-10
-
+sort: 1
 ---
+
+# MAX30102_BLE
 
 ```
 本程序相较于MAX30102.ino增加了BLE数据传输功能
