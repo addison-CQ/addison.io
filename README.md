@@ -1,4 +1,4 @@
-<img decoding="async" src="https://addison-cq.github.io/ESP32SensorKit/images/IMG_20221208_154101_edit_494093426512107.jpg" width="70%">
+<img decoding="async" src="https://addison-cq.github.io/webPages/images/IMG_20221208_154101_edit_494093426512107.jpg" width="70%">
 
 # 重庆艾迪逊电子
 
