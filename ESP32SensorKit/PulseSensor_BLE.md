@@ -9,7 +9,7 @@ sort: 6
 此前操作步骤请参考PulseSensor文档
 ```
 
-### BLE功能部分介绍
+BLE功能部分介绍
 
 1. 在手机端安装”ESP32 Sensor Kit“软件，并给予其获取位置信息，使用蓝牙、WIFI等系统权限
 
