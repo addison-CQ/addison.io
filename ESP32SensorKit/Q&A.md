@@ -1,8 +1,8 @@
 ---
-layout: page
-title: 可能遇到的问题及解决方法
-permalink: /Q&A/
+sort: 8
 ---
+
+# Q&A
 
 - 程序依赖的库无法在线安装
 
