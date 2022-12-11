@@ -1,8 +1,8 @@
 ---
-title: ESP32-Arduino集成开发环境配置流程
-category: ESP32SensorKit
-order: 2
+sort: 1
 ---
+
+# ESP32-Arduino Environment
 
 ## 一、安装Arduino IDE
 
