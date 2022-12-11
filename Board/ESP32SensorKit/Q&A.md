@@ -6,7 +6,7 @@ sort: 8
 
 ### 1、程序依赖的库无法在线安装
 
-  在本仓库ESP32SensorKit/ArduinoDependence目录下选择所需的软件包，下载后解压至本地C:\Users\用户名\Documents\Arduino\libraries目录下
+  在本仓库[Board/ESP32SensorKit/ArduinoDependence](https://github.com/addison-CQ/webPages/tree/develop/Board/ESP32SensorKit/ArduinoDependence)目录下选择所需的软件包，下载后解压至本地C:\Users\用户名\Documents\Arduino\libraries目录下
   
 ### 2、开发板正常工作，但ArduinoIDE无法检测到开发板或无法下载程序
   1. 持续按下开发板BOOT按键
