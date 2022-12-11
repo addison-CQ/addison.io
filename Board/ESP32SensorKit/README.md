@@ -13,11 +13,11 @@
 
 - ## Pulse Sensor
 
-  ## ![](https://addison-cq.github.io/ESP32SensorKit/images/image-20221026214424539.png)
+  ## ![](https://addison-cq.github.io/webPages/images/image-20221026214424539.png)
 
 - ## MAX30102
 
-  ## <img decoding="async" src="https://addison-cq.github.io/ESP32SensorKit/images/image-20221027105028345.png" width="50%">
+  ## <img decoding="async" src="https://addison-cq.github.io/webPages/images/image-20221027105028345.png" width="50%">
   ------
 
 ## 传感器工作原理
