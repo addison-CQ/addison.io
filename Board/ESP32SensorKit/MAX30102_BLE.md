@@ -28,3 +28,5 @@ BLE功能部分介绍
 6. 稍等片刻，APP与开发板成功连接，此时我们可以通过APP查看开发板测算出的心率与血氧浓度数据
 
    <img decoding="async" src="https://addison-cq.github.io/webPages/images/Screenshot_20221208_174837_com.example.esp32senso.jpg" width="20%">
+
+## 源代码（[MAX30102_BLE.ino](https://github.com/addison-CQ/webPages/tree/develop/doc/ESP32SensorKit/code)）
