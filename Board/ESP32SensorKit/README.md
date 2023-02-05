@@ -24,7 +24,7 @@
 
   ESP32 Sensor Kit原理图
   
-  <img src="https://addison-cq.github.io/webPages/Schematic_ESP32_HUB.png" style="zoom:17%;" />
+  <img src="https://addison-cq.github.io/webPages/images/Schematic_ESP32_HUB.png" style="zoom:50%;" />
   
   ------
 
