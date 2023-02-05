@@ -42,12 +42,12 @@ LED峰值波长：515nm（绿光）
 
 一、有线传输方式
 
-![](https://addison-cq.github.io/webPages/images/pulsesensor_arduino.jpg)
+![](https://addison-cq.github.io/webPages/images/pulsesensor_arduino.JPG)
 
 此方法可以通过Arduino UNO或其他类似开发板，采集人体脉搏信号，并计算心率数值。具体操作方法和程序可以参考[这里](https://github.com/WorldFamousElectronics/PulseSensor_Amped_Arduino)。
 
 二、无线传输方式
 
-![](https://addison-cq.github.io/webPages/images/pulsesensor_esp32.jpg)
+![](https://addison-cq.github.io/webPages/images/pulsesensor_esp32.JPG)
 
 此方法通过本公司出的ESP32 Sensor Kit开发板，采集人体脉搏信号，并计算心率数值，最终使用低功耗蓝牙BLE或者WIFI传输到电脑或手机终端查看。具体操作方法和程序可以参考[这里](https://addison-cq.github.io/webPages/Board/ESP32SensorKit/)。
