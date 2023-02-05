@@ -44,7 +44,7 @@ sort: 5
 
 9. 保持手指稳定贴合，几秒钟后，可以在OLED屏幕上看到系统测算出的心率数值
 
-   ![IMG_20221111_121052_edit_68260271353125](https://addison-cq.github.io/webPages/images/IMG_20221208_173118_edit_497015968041869.jpg)
+   ![IMG_20221111_121052_edit_68260271353125](https://addison-cq.github.io/webPages/images/ESP32_PS.jpg)
    
 9. 此外，我们还可以通过按键选择是否存储数据。当第一次按动按键后，屏幕会出现”REC“字样，此时系统会将测算出的心率与血氧饱和度数据存入SD卡；当再次按动按键后，“REC”字样消失，数据将不再被记录
 
