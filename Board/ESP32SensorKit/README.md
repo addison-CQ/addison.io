@@ -18,7 +18,7 @@
 
 - 采用micro USB口完成供电/下载/调试功能
 
-  <img src="https://addison-cq.github.io/webPages/images/ESP32_LAYOUT.jpg" style="zoom: 15%;" />
+  <img src="https://addison-cq.github.io/webPages/images/ESP32_LAYOUT.JPG" style="zoom: 15%;" />
 
   <img src="https://addison-cq.github.io/webPages/images/ESP32_back.jpg" style="zoom:17%;" />
 
