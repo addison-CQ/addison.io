@@ -27,3 +27,5 @@ sort: 4
 6. APP会每两秒自动同步一次开发板数据
 
     <img decoding="async" src="https://addison-cq.github.io/webPages/images/Screenshot_20221111_135141_com.example.esp32sensorkit_f.jpg" width="20%">
+
+## 源代码（[MAX30102_WLAN_STA.ino](https://github.com/addison-CQ/webPages/tree/develop/doc/ESP32SensorKit/code)）
