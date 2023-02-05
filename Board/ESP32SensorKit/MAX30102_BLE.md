@@ -21,7 +21,7 @@ BLE功能部分介绍
 
    <img decoding="async" src="https://addison-cq.github.io/webPages/images/Screenshot_20221208_171005_com.example.esp32senso.jpg" width="20%">
    
-6. 若APP未能成功连接开发板，请先点击APP连接按钮，再按压一次开发板RST按键，就行重新尝试
+6. 若APP未能成功连接开发板，请先点击APP连接按钮，再按压一次开发板RST按键，进行重新尝试
 
    <img decoding="async" src="https://addison-cq.github.io/webPages/images/Screenshot_20221208_172530_com.example.esp32senso.jpg" width="20%">
    
