@@ -38,7 +38,7 @@ sort: 5
    
 9. 开发板上电后，OLED屏幕会显示出“ESP32 Sensor Kit”字样，PulseSensor模块发出绿光，进入工作状态
 
-   ![IMG_20221111_120129_edit_67814095816214](https://addison-cq.github.io/webPages/images/IMG_20221208_153235_edit_494155319177722.jpg)
+   ![IMG_20221111_120129_edit_67814095816214](https://addison-cq.github.io/webPages/images/ESP32_PS_POWERON.jpg)
    
 9. 将手指紧贴于PulseSensor模块发光处，系统开始测量心率
 
@@ -48,6 +48,6 @@ sort: 5
    
 9. 此外，我们还可以通过按键选择是否存储数据。当第一次按动按键后，屏幕会出现”REC“字样，此时系统会将测算出的心率与血氧饱和度数据存入SD卡；当再次按动按键后，“REC”字样消失，数据将不再被记录
 
-   ![image-20221111121723766](https://addison-cq.github.io/webPages/images/IMG_20221208_155852_edit_494582712357344.png)
+   ![image-20221111121723766](https://addison-cq.github.io/webPages/images/ESP32_PS_REC.png)
 
 ## 源代码（[PulseSensor.ino](https://github.com/addison-CQ/webPages/tree/develop/doc/ESP32SensorKit/code)）
