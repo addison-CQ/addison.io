@@ -18,16 +18,16 @@
 
 - 采用micro USB口完成供电/下载/调试功能
 
-  <img src="https://addison-cq.github.io/webPages/images/ESP32_LAYOUT.JPG" style="zoom: 15%;" />
+### 外观
+  <img src="https://addison-cq.github.io/webPages/images/ESP32_LAYOUT.JPG" style="zoom: 50%;" />
 
   <img src="https://addison-cq.github.io/webPages/images/ESP32_back.jpg" style="zoom:17%;" />
 
-  ESP32 Sensor Kit原理图
+### 原理图
   
   <img src="https://addison-cq.github.io/webPages/images/Schematic_ESP32_HUB.png" style="zoom:50%;" />
   
   ------
-
 
 
 ## 适配传感器模块概览
