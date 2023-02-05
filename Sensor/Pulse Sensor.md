@@ -2,7 +2,7 @@
 
 Pulse Sensor是一款用于心率测量、脉搏波形测量和HRV分析的光电反射式**模拟传感器**。将其佩戴于手指、耳垂等处，通过导线连接可将采集到的模拟信号传输给Arduino、ESP32、STM32和STC12C5A等具有模拟采集功能的单片机并转换为数字信号，再通过单片机的简单计算后就可以得到心率数值，此外还可将脉搏波形和心率数值通过串口上传到电脑进行显示。Pulse Sensor是一款开源硬件，目前国外官网上已有其对应的arduino程序和上位机Processing程序，其适用于心率方面的科学研究和教学演示，也非常方便二次开发。本公司制作的传感器实物如下图：
 
-![](https://addison-cq.github.io/webPages/images/image-20221026214424539_副本.jpg)
+![](https://addison-cq.github.io/webPages/images/image-20221026214424539.jpg)
 
 引脚说明：
 
