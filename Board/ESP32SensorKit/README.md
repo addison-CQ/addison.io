@@ -21,9 +21,9 @@
 ### 外观
   <img src="https://addison-cq.github.io/webPages/images/ESP32_LAYOUT.JPG" style="zoom: 50%;" />
 
-  <img src="https://addison-cq.github.io/webPages/images/ESP32_back.jpg" style="zoom:17%;" />
+  <img src="https://addison-cq.github.io/webPages/images/ESP32_back.jpg" style="zoom:15%;" />
 
-### 原理图
+### 原理图（[Schematic_ESP32_HUB_2023-02-05.pdf](https://github.com/addison-CQ/webPages/tree/develop/doc/ESP32SensorKit)）
   
   <img src="https://addison-cq.github.io/webPages/images/Schematic_ESP32_HUB.png" style="zoom:50%;" />
   
