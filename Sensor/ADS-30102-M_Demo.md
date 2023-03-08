@@ -3,7 +3,7 @@
 - 集成开发环境：Arduino IDE
 - 开发板：DCcduino（它和Arduino UNO开发板是互相兼容的）
 
-<img decoding="async" src="https://addison-cq.github.io/webPages/images/demo1-1.png" width="60%">
+   <img decoding="async" src="https://addison-cq.github.io/webPages/images/demo1-1.png" width="60%">
 
 1. 在Arduino UNO示例SoftwareSerialExample.ino的基础上进行修改，编写一个简单的测试程序
 
@@ -56,7 +56,7 @@
 
 4. 在之后的多次测试过程中，模块一直运行正常，检测速度较快，在几秒种内就能测算出心率血氧数据且数据稳定可靠
 
-   [工程源码：**UNO_ADS-30102-M.rar**](https://github.com/addison-CQ/webPages/tree/develop/doc/ADS-30102-M)
+[工程源码：**UNO_ADS-30102-M.rar**](https://github.com/addison-CQ/webPages/tree/develop/doc/ADS-30102-M)
 
 ------
 
@@ -199,6 +199,6 @@
 
 2. 将食指指腹紧贴于MAX30102模块发出红光处，查看屏幕显示效果
 
-<img decoding="async" src="https://addison-cq.github.io/webPages/images/demo2-2.png" width="60%">
+   <img decoding="async" src="https://addison-cq.github.io/webPages/images/demo2-2.png" width="60%">
 
 [工程源码：**F103_ADS-30102-M.rar**](https://github.com/addison-CQ/webPages/tree/develop/doc/ADS-30102-M)
