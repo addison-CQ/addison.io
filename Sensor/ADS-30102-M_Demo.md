@@ -1,3 +1,5 @@
+#ADS-30102-M_Demo
+
 ## Demo-1
 
 - 集成开发环境：Arduino IDE
@@ -72,7 +74,7 @@
 
 1. 主要代码
 
-   ```
+   ```c
    int main(void)
    {
      HAL_Init();
