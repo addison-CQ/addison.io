@@ -51,3 +51,5 @@ LED峰值波长：515nm（绿光）
 ![](https://addison-cq.github.io/webPages/images/pulsesensor_esp32.JPG)
 
 此方法通过本公司出的ESP32 Sensor Kit开发板，采集人体脉搏信号，并计算心率数值，最终使用低功耗蓝牙BLE或者WIFI传输到电脑或手机终端查看。具体操作方法和程序可以参考[这里](https://addison-cq.github.io/webPages/Board/ESP32SensorKit/)。
+
+往届资料请到百度网盘查看（链接:https://pan.baidu.com/s/1jHDxwn8?pwd=66ff 提取码:66ff）
